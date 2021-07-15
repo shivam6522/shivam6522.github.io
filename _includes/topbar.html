@@ -29,7 +29,8 @@
         <span>
           {% assign url = item %}
           {% if item == 'posts' and page.layout == 'post' %}
-            {% assign url = '/' %}
+          <!-- assign url here is edited by me from previous value = '/' -->
+            {% assign url = '/categories/all-projects' %}
           {% endif %}
           <a href="{{ url | relative_url }}">
             {{ item | capitalize }}

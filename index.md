@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 
 I am very much interested in software development, especially back end development and working on large scale projects. In addition to this, I also have pretty good experience with django web development and rest framework. Additionally, I have participated in several competitive programming contests like...[read more](/about/)
 
-- I am currently solving dsa problems on gfg and leetcode intensively.
+- I am currently solving dsa problems on gfg and leetcode and exploring Djanog a little.
 - As well as I am building my portfolio site(which you are looking at😄) with Jekyll which is awesome!!
-- Download my [Resume](https://drive.google.com/file/d/1E-6He7XMVf3I6oSgOyaVaL6a5HrmV0FE/view?usp=sharing)
+- Download my *[Resume](https://drive.google.com/file/d/1Gm3tlUT9bYLbAO6fUQtG4nN19wW_vb9p/view?usp=sharing)*
+
+##  **current position** : Final year undergraduate student at IIIT Guwahati.
 
 
-
-## 🛠️ My favorite tools
+## 🛠️ **My favorite tools**
 
 ### 👨‍💻 Programming languages
 
@@ -66,11 +67,23 @@ I am very much interested in software development, especially back end developme
 <p>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-47af16.svg?logo=vim&logoColor=f9f2c0"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-%23000000.svg?logo=keybase&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 </p>
+
+## **Experience**
+
+### ***May 2020 / June 2020 - Research Intern at IIIT Guwahati (remote)***
+- Observed and analysed the behaviour of **self balanced binary search tree** for various balance factors
+- Developed a **generalized formula** for number of rotations for elements inserted in sorted order.
+- Analysis [report](https://drive.google.com/file/d/1Dvf57x1wf2UhQV83N4ASWShE18tMuEyv/view?usp=sharing)
+
+### ***Oct 2020 / Dec 2020 - Learner at AWS and google cloud (online)***
+- Successfully completed  **cloud engineering** track of *30 days of google cloud program*. ([certificate](https://drive.google.com/file/d/16QHFoP4BtpL8XkY_SeSnipqzQSSpJiUy/view?usp=sharing))
+- Completed several Google cloud [quick labs](https://google.qwiklabs.com/public_profiles/4bcfbbd6-576e-4894-8e3f-3080e46d0986)
+- Pretty comfortable launching and configuring **EC2** instances with both **command line tools** and **GUI**.
+- Hosted a static website locally using EC2 and **S3** with the help of command line tools and **boto3** library.
